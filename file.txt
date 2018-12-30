@@ -1,4 +1,6 @@
 My first line in project
+
 London is the capital of GB
+
 Mosscow is the capital of Russia
-Mosscow is the capital of Russia
+Paris is the capital of France
